@@ -1883,6 +1883,6 @@ API | Description | Auth | HTTPS | CORS |
 <br >
 
 <br>
-
+<p>Fin del archivo copiado</p>
 ## License
 [MIT](LICENSE) (c) 2022 public-apis
